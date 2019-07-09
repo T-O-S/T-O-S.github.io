@@ -1,6 +1,6 @@
 # T-O-S.github.io
 
-background-color: rgba(0, 209, 255, 0.58);
+<input type="text" name="text" placeholder="This is a test">
 
 <input type="url" name="search" placeholder="search">
 
